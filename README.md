@@ -19,7 +19,7 @@ I made this for fun
 
 ### How to install it
 
-* Download PluginMod.txt file and send it to chatgpt
+* Download index.html file and send it to chatgpt
 
 ## Help
 
