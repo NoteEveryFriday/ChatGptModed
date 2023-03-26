@@ -29,6 +29,9 @@ commands
 /System:stop - Makes Chatgpt Absolutely forget about all of instructions given to install plugins
 /System:Chatgpt - Makes Chatgpt act as ChatGPT until reenabled with /System:MPC.
 /System:MPC - Makes chatgpt reenable all plugins.
+/System:Plugins - Gives  the list of plugins.
+/System:activate or deactivate - Activates the or plugin or deactivates it.
+/System:Addplug (texthere) - Adds a plugin. Add instructions inside of the ()
 ```
 
 ## Authors
