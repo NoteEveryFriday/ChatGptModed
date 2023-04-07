@@ -12,11 +12,6 @@ I made this for fun
 
 * An OpenAi account and any device and a browser
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
 ### How to install it
 
 * Download PluginMod.txt file and send it to chatgpt
